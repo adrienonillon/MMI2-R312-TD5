@@ -1,21 +1,4 @@
-<img
-          src="./assets/Profile/image-profile-mobile.webp"
-          alt="Profile"
-          class="mb-6 h-40 w-40 rounded-lg object-cover"
-        />
-<h1 class="mb-2 text-center text-2xl font-bold">
-Nice to meet you!<br />I'm Adam Keyes.
-</h1>
-<p class="mb-4 text-center text-gray-300">
-Based in the UK, I'm a front-end developer passionate about building
-accessible web apps that users love.
-</p>
-<a
-          href="#contact"
-          class="rounded bg-green-300 px-6 py-2 font-semibold text-gray-900 transition hover:bg-green-400"
-          >CONTACT ME</a
-        >
-</header>
+// pour faire le degradé avec l'image translate x pour la mettre dessous les réseaux et son nom. Son nom est un texte normale, les icones des liens c'est des a cette section c'est la nav le header prend le nom et la nav la sectin main comprend l'image le contact me qui est un a ...// 
 
       <hr class="my-8 border-gray-800" />
 
