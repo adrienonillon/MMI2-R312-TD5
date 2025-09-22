@@ -1,36 +1,5 @@
 // pour faire le degradé avec l'image translate x pour la mettre dessous les réseaux et son nom. Son nom est un texte normale, les icones des liens c'est des a cette section c'est la nav le header prend le nom et la nav la sectin main comprend l'image le contact me qui est un a ...// 
 
-      <hr class="my-8 border-gray-800" />
-
-      <!-- Skills -->
-      <section class="mb-8 grid grid-cols-1 gap-6">
-        <div>
-          <h2 class="text-lg font-bold">HTML</h2>
-          <p class="text-gray-400">4 Years Experience</p>
-        </div>
-        <div>
-          <h2 class="text-lg font-bold">CSS</h2>
-          <p class="text-gray-400">4 Years Experience</p>
-        </div>
-        <div>
-          <h2 class="text-lg font-bold">JavaScript</h2>
-          <p class="text-gray-400">4 Years Experience</p>
-        </div>
-        <div>
-          <h2 class="text-lg font-bold">Accessibility</h2>
-          <p class="text-gray-400">Accessible</p>
-        </div>
-        <div>
-          <h2 class="text-lg font-bold">TailwindCss</h2>
-          <p class="text-gray-400">3 Years Experience</p>
-        </div>
-        <div>
-          <h2 class="text-lg font-bold">Sass</h2>
-          <p class="text-gray-400">3 Years Experience</p>
-        </div>
-      </section>
-
-      <hr class="my-8 border-gray-800" />
 
       <!-- Projects -->
       <section>
